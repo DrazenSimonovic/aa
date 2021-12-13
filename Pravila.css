@@ -1,0 +1,55 @@
+.navbar {
+    position: fixed;
+    top: 0;
+    width: 100%;
+    font-family: papyrus;
+    left: 0;
+}
+
+.navbar a {
+    text-decoration: none;
+    color: white;
+    font-size: 25px;
+    padding-top: 12px;
+    padding-bottom: 12px;
+    padding-left: 60px;
+    padding-right: 60px;
+    float: left;
+}
+
+.navbar a:hover {
+    background-color: #991f00;
+}
+
+#slika1 {
+    width: 100%;
+    height: 100%;
+}
+
+body {
+    background-color: black;
+}
+
+#slika2 {
+    top: 50%;
+    right: 7%;
+    position: absolute;
+    width: 400px;
+    height: 500px;
+    border-radius: 5%;
+}
+
+#naziv {
+    font-size: 20px;
+    font-family: papyrus;
+    color: #ff5c33;
+    text-align: center;
+}
+
+#pravila {
+    font-size: 20px;
+    font-family: papyrus;
+    color: white;
+    padding-left: 20px;
+    text-align: center;
+}

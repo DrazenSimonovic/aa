@@ -1,0 +1,81 @@
+.navbar {
+    position: fixed;
+    top: 0;
+    width: 100%;
+    font-family: papyrus;
+    left: 0;
+}
+
+.navbar a {
+    text-decoration: none;
+    color: white;
+    font-size: 25px;
+    padding-top: 12px;
+    padding-bottom: 12px;
+    padding-left: 60px;
+    padding-right: 60px;
+    float: left;
+}
+
+.navbar a:hover {
+    background-color: #991f00;
+}
+
+#slika1 {
+    width: 100%;
+    height: 100%;
+}
+
+body {
+    background-color: black;
+}
+
+#paragraf {
+    color: #ff5c33;
+    position: absolute;
+    top: 35%;
+    right: 7%;
+    margin-left: 900px;
+    font-size: 30px;
+    font-family: papyrus;
+}
+
+#btn {
+    position: absolute;
+    margin-left: 900px;
+    top: 53%;
+    right: 15%;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    padding-right: 5px;
+    padding-left: 3px;
+    font-family: papyrus;
+    font-weight: bold;
+    font-size: 20px;
+    cursor: pointer;
+    background-color: #ff5c33;
+    color: white;
+}
+
+#btn:hover {
+    background-color: #991f00;
+    color: black;
+}
+
+#paragraf2 {
+    position: absolute;
+    color: #ff5c33;
+    top: 40%;
+    right: 15%;
+    font-size: 35px;
+    font-family: papyrus;
+}
+
+#link {
+    text-decoration: none;
+    color: white;
+}
+
+#link:hover {
+    color: black;
+}
